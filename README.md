@@ -15,5 +15,5 @@ Python · Node.js · FastAPI · WordPress — building realtime crypto tools, bl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logicencoder&theme=github_dark" />
 </p>
 
-📂 **[See all projects →](https://github.com/logicencoder/logicencoder-portfolio)**
+📂 **[See all projects →](https://github.com/logicencoder/projects)**
 🌐 [logicencoder.com](https://logicencoder.com)
