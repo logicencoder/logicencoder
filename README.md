@@ -2,9 +2,13 @@
 
 Full-stack developer building **realtime trading tools**, **blockchain monitors**, and **WordPress plugins** — mostly Python, Node.js, and a lot of WebSockets.
 
+![Profile Views](https://komarev.com/ghpvc/?username=logicencoder&color=brightgreen&style=flat-square&label=profile+views)
+![GitHub followers](https://img.shields.io/github/followers/logicencoder?style=flat-square&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/logicencoder?style=flat-square&color=yellow)
+
 ---
 
-## 🔧 What I build
+## 🔧 Projects
 
 **Crypto / DeFi**
 - 📈 [ETH Gas Live](https://github.com/logicencoder/eth-gas-live-backend) — realtime Ethereum gas tracker with heatmaps, IPI score, SSR SEO pages
