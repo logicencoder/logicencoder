@@ -1,6 +1,6 @@
 # Logic Encoder
 
-Python · Node.js · FastAPI · WordPress — building realtime crypto tools, blockchain monitors, and trading dashboards.
+Hobbyist coder and software architect, curious how things work under the surface. I build applications, dashboards, WordPress plugins and tools — Python, Node.js, PHP, Rust, C# and whatever else a project needs.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=logicencoder&color=brightgreen&style=flat-square&label=views)
 ![GitHub followers](https://img.shields.io/github/followers/logicencoder?style=flat-square&color=blue)
